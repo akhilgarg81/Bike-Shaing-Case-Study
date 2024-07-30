@@ -32,9 +32,21 @@ How well those variables describe the bike demands
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Libraries:
+- Numpy	
+- Panads
+- Matplotlib
+- Seaborn
+
+## Libraries version
+- Pandas: 2.2.2
+- NumPy:1.26.4
+- Seaborn:0.12.2
+- Matplotlib:3.8.0
+- Anaconda Navigator: 2.6.0
+- sklearn
+- statsmodels: 0.14.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
